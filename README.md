@@ -56,6 +56,8 @@ Meu objetivo com esse curso é explorar o universo que o mundo da tecnologia pod
 
 - **`Projeto de formação da VTEX - Hiring Coders - em parceria com a GAMA ACADEMY`**<br>
 Estou vivenciando uma formação completa segundo a cultura da empresa VTEX, desde soft skills importantes para ser bem sucedido na profissão e contribuir em equipes de trabalho até conhecimento técnico completo que a profissão exige, com experiências reais, consultoria e mentoria com profissionais da VTEX e empresas parceiras.
+
+Tech Skills desenvolvidas: HTML | CSS | JAVASCRIPT | TYPESCRIPT | METODOLOGIAS ÁGEIS | CULTURA DEVOPS | REACT | NODEJS | GRAPHQL | VTEX-IO |
 <br> <br>
 
 <div>
