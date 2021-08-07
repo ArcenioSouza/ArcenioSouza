@@ -1,11 +1,8 @@
-### Hi there 👋
-
-# Minha Trajetória Profissional
+# Arcenio Souza
 
 <img src="imagemReadme/Eu.jpg" alt="Minha Foto">
 
-## Arcenio Souza
-### Técnico em Desenvolvimento de Sistemas
+### *Estudante de Desenvolvimento de Sistemas*
 
 **LinkedIn:**
 <a href="http://www.linkedin.com/in/arceniofso"> @ArcenioSouza</a>
