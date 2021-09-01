@@ -46,10 +46,10 @@ Tech Skills desenvolvidas: HTML | CSS | PHP | JAVA | JAVASCRIPT | ANDROID | SQL 
 Depois de quase 12 anos como educador na mesma empresa e com uma bagagem de conhecimento teórico como desenvolvedor decidi que estava na hora de buscar a experiência profissional que tanto desejo e me aprofundar ainda mais nos estudos me dedicando integralmente, por isso saí da empresa e comecei a me dedicar a faculdade, a bootcamps e projetos de capacitação para empresas:
 <br>
 
-<img src="imagemReadme/AnhembiMorumbi.jpg" alt="Universidade">
+<img src="imagemReadme/CruzeiroDoSul.jpg" alt="Universidade">
 
-- **`Engenharia da computação - Universidade Anhembi Morumbi`**<br>
-Meu objetivo com esse curso é explorar o universo que o mundo da tecnologia pode oferecer, minha expectativa é chegar ao final do curso conhecendo conceitos e funcionalidades com mais profundidade.
+- **`Análise e Desenvolvimento de Sistemas - Universidade Cruzeiro do Sul`**<br>
+Meu objetivo com esse curso é explorar o universo que o mundo da programação pode oferecer, minha expectativa é chegar ao final do curso conhecendo linguagens, conceitos e funcionalidades com mais profundidade.
 <br><br>
 
 <img src="imagemReadme/cover-linkedin.jpg" alt="HiringCoders">
