@@ -1,14 +1,16 @@
-# *Arcenio Souza*
+# Olá!! Eu sou o Arcenio, estudante de desenvolvimento web frontend!
 
-<img src="imagemReadme/Eu.jpg" alt="Minha Foto">
-
-### *Estudante de Desenvolvimento de Sistemas*
-
-**LinkedIn:**
-<a href="http://www.linkedin.com/in/arceniofso"> @ArcenioSouza</a>
-
-**Facebook:**
-<a href="https://www.facebook.com/arcenio.neto.3"> @ArcenioNeto</a>
+<div align="center">
+  <a href="https://github.com/arceniosouza">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arceniosouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arceniosouza&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Arce-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Arce-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Arce-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Arce-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
 ---
 
