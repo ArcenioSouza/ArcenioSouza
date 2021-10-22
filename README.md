@@ -22,8 +22,10 @@
 
 ##
 
-<div>  
+<div>
+  
   ![Snake animation](https://github.com/arceniosouza/arceniosouza/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
 ---
