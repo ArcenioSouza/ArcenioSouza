@@ -49,19 +49,27 @@
  
  <details>
    <summary>Sobre Mim</summary>
+   
    <div>
-     
-     <p>Sou nascido em São Paulo, filho de nordestinos e sou apaixonado por tudo referente a tecnologia.</p>
-     <p>Sou fã do mundo geek, jogador de tênis de mesa e também adoro um vídeo game. Sou muito dedicado a família e procuro estar presente em tudo que eles               promovem, pois sei que bem maior que a família não existe.</p>
-     <p>Estou me dedicando muito para me tornar um desenvolvedor frontend e meu grande objetivo profissional para os próximos anos é ser bem sucedido nessa               carreira assim como eu sou como educador.</p>   
-     
+     <p>
+       Sou nascido em São Paulo, filho de nordestinos e sou apaixonado por tudo referente a tecnologia.
+     </p>
+     <p>
+       Sou fã do mundo geek, jogador de tênis de mesa e também adoro um vídeo game. Sou muito dedicado a família e procuro estar presente em tudo que eles               promovem, pois sei que bem maior que a família não existe.
+     </p>
+     <p>
+       Estou me dedicando muito para me tornar um desenvolvedor frontend e meu grande objetivo profissional para os próximos anos é ser bem sucedido nessa               carreira assim como eu sou como educador.
+     </p>        
    </div>
+   
 </details>
 
 ##
 
 <details>
   <summary>Formação</summary>
+  
+  ##
   
   <div>
     
@@ -71,6 +79,8 @@
     
   </div>
   
+  ##
+  
   <div>
     
   **Auxiliar técnico de programação**<br>
@@ -78,6 +88,8 @@
     Esse curso me ajudou a conhecer um pouco de cada linguagem de programação e foi a base para compreender como funciona a lógica de programação que ainda hoje      me ajuda a compreender o funcionamento de qualquer linguagem.
     
   </div>
+  
+  ##
   
   <div>
     
@@ -87,6 +99,8 @@
     
   </div>
   
+  ##
+  
   <div>
   
    **Análise e Desenvolvimento de Sistemas**<br>
@@ -95,11 +109,25 @@
   
   </div>
   
+  ##
+  
+  <div>
+    
    **Hiring Coders**<br>
     *Gama Academy - Vtex*<br>
     Estou vivenciando uma formação completa segundo a cultura da empresa VTEX, desde soft skills importantes para ser bem sucedido na profissão e contribuir em      equipes de trabalho até conhecimento técnico completo que a profissão exige, com experiências reais, consultoria e mentoria com profissionais da VTEX e            empresas parceiras.
   
-  <div> 
+  </div> 
+  
+  ##
+  
+  <div>
+    
+   **Formação WebDev Full Stack**<br>
+    *Resília*<br>
+    Estou vivenciando uma formação completa segundo a cultura da empresa VTEX, desde soft skills importantes para ser bem sucedido na profissão e contribuir em      equipes de trabalho até conhecimento técnico completo que a profissão exige, com experiências reais, consultoria e mentoria com profissionais da VTEX e            empresas parceiras.
+  
+  </div> 
    
 </details>
 
