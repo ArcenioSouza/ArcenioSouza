@@ -58,7 +58,7 @@
        Sou fã do mundo geek, jogador de tênis de mesa e também adoro um vídeo game. Sou muito dedicado a família e procuro estar presente em tudo que eles               promovem, pois sei que bem maior que a família não existe.
      </p>
      <p>
-       Estou me dedicando muito para me tornar um desenvolvedor frontend e meu grande objetivo profissional para os próximos anos é ser bem sucedido nessa               carreira assim como eu sou como educador.
+       Estou me dedicando muito para me tornar um desenvolvedor frontend e meu grande objetivo profissional para os próximos anos é ser bem sucedido nessa carreira assim como eu sou como educador.
      </p>        
    </div>
    
@@ -75,7 +75,7 @@
     
   **Licenciatura e Bacharelado em Educação Física**<br>
    *Universidade Cruzeiro do Sul*<br>
-    Esse curso desenvolveu soft skills que considero importante, como organização e estratégias para conduzir equipes; Importância do treinamento de repetição        para aquisição de habilidades cognitivas; Dinamismo, pró-atividade e cooperativismo.
+    Esse curso desenvolveu soft skills que considero importante, como organização e estratégias para conduzir equipes; Importância do treinamento de repetição para aquisição de habilidades cognitivas; Dinamismo, pró-atividade e cooperativismo.
     
   </div>
   
@@ -85,7 +85,7 @@
     
   **Auxiliar técnico de programação**<br>
    *ETEC Itaquera*<br>
-    Esse curso me ajudou a conhecer um pouco de cada linguagem de programação e foi a base para compreender como funciona a lógica de programação que ainda hoje      me ajuda a compreender o funcionamento de qualquer linguagem.
+    Esse curso me ajudou a conhecer um pouco de cada linguagem de programação e foi a base para compreender como funciona a lógica de programação que ainda hoje me ajuda a compreender o funcionamento de qualquer linguagem.
     
   </div>
   
@@ -95,7 +95,7 @@
     
   **Técnico em Desenvolvimento de Sistemas**<br>
    *Etec Martin Luther King*<br>
-    Esse curso desenvolveu habilidades para criar sistemas em Java usando o Eclipse e o Android Studio, criar web sites usando as linguagens HTML, CSS, JavaScript    e o framework da W3-Scholl, criar banco de dados usando o SQL Server e o MySQL, além de desenvolver soft skills importante para um programador como trabalho em    equipe, persistência e dedicação aos estudos, dentre outras competências.
+    Esse curso desenvolveu habilidades para criar sistemas em Java usando o Eclipse e o Android Studio, criar web sites usando as linguagens HTML, CSS, JavaScript    e o framework da W3-Scholl, criar banco de dados usando o SQL Server e o MySQL, além de desenvolver soft skills importante para um programador como trabalho em equipe, persistência e dedicação aos estudos, dentre outras competências.
     
   </div>
   
@@ -105,7 +105,7 @@
   
    **Análise e Desenvolvimento de Sistemas**<br>
     *Universidade Cruzeiro do Sul*<br>
-     Meu objetivo com esse curso é explorar o universo que o mundo da programação pode oferecer, minha expectativa é chegar ao final do curso conhecendo              linguagens, conceitos e funcionalidades com mais profundidade.
+     Meu objetivo com esse curso é explorar o universo que o mundo da programação pode oferecer, minha expectativa é chegar ao final do curso conhecendo linguagens, conceitos e funcionalidades com mais profundidade.
   
   </div>
   
@@ -115,7 +115,7 @@
     
    **Hiring Coders**<br>
     *Gama Academy - Vtex*<br>
-    Estou vivenciando uma formação completa segundo a cultura da empresa VTEX, desde soft skills importantes para ser bem sucedido na profissão e contribuir em      equipes de trabalho até conhecimento técnico completo que a profissão exige, com experiências reais, consultoria e mentoria com profissionais da VTEX e            empresas parceiras.
+    Estou vivenciando uma formação completa segundo a cultura da empresa VTEX, desde soft skills importantes para ser bem sucedido na profissão e contribuir em equipes de trabalho até conhecimento técnico completo que a profissão exige, com experiências reais, consultoria e mentoria com profissionais da VTEX e empresas parceiras.
   
   </div> 
   
@@ -125,7 +125,7 @@
     
    **Formação WebDev Full Stack**<br>
     *Resília*<br>
-    Estou vivenciando uma formação completa segundo a cultura da empresa VTEX, desde soft skills importantes para ser bem sucedido na profissão e contribuir em      equipes de trabalho até conhecimento técnico completo que a profissão exige, com experiências reais, consultoria e mentoria com profissionais da VTEX e            empresas parceiras.
+    Este curso está desenvolvendo o senso de comunidade e de trabalho em equipe, estou praticando todos os dias técnicas de organização e controle emocional, o curso tem ajudado bastante a desenvolver uma rotina de estudos e auto disciplina em todas as áreas da minha vida. Além de proporcionar um conhecimento tech maravilhoso, partindo do básico em programação até estágios mais avançados, abrangendo as áreas de front e back end.
   
   </div> 
    
