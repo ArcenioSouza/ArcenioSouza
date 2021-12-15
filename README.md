@@ -1,6 +1,8 @@
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-itens: center">
   
 <h1 style="font-family: Roboto Condensed " ><em>E ai gente!!<br>Eu sou o Arcenio<br>Desenvolvedor Web FrontEnd</em></h1>
+
+<img height="100" width="70" src="./imagemReadme/euAvatar.png">
   
 </div>
 
