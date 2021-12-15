@@ -1,6 +1,6 @@
 <div align="center" style="display: inline-block">
 
-<img height="200" width="80%" src="./imagemReadme/title.png">
+<img height="200" width="80%" src="./imagemReadme/title.PNG">
 <img height="200" width="15%" src="./imagemReadme/euAvatar.png">
   
 </div>
