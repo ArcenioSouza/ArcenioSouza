@@ -13,9 +13,7 @@
    
    <div>
      <p>
-      Sou um profissional experiente, trabalhei por onze anos em uma instituição de ensino profissionalizante formando jovens de quinze a dezoito anos para o mercado de trabalho. Sou formado em Educação Física e desde 2017 resolvi fazer uma transição de carreira aceitando a desafio de lecionar informática para esses jovens. Inicialmente me capacitei para atender a demanda do curso que lecionava através de cursos rápidos e uma rotina de estudo em casa, no ano seguinte iniciei meus estudos no curso Técnico de Informática na ETEC e me apaixonei pela programação. Decidi então buscar algo mais específico e me formei no curso de Técnico em Desenvolvimento de Sistemas pela ETEC também. Agora decidi ir em busca da oportunidade que sonhei esses anos, sai da empresa, iniciei o Tecnólogo em Análise e Desenvolvimento de Sistemas e desde julho de 2021 mantenho uma rotina diária de estudos para me aperfeiçoar e me preparar para os desafios que me esperam.
-
-contato: arcenio_neto@icloud.com
+      Sou um profissional experiente, trabalhei por onze anos como Educador Social formando jovens e adultos para o mercado de trabalho e desde 2017 iniciei uma transição de carreira para a área da tecnologia. Iniciei como Educador de informática e hoje atuo como desenvolvedor backend Java na empresa F1rst Digital Services. Como desenvolvedor de segmento bancário atuei em projeto de emissão e pagamentos de boletos, me especializei em projetos voltados para o Open Finance atuando em demandas regulatórias do Bacen a cerca de quatro anos e mais recentemente aceitei o desafio de atuar também com as APIs de PIX.
      </p>        
    </div>
    
